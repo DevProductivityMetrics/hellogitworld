@@ -1,1 +1,1 @@
-mode=prod
+port=8088
